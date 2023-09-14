@@ -357,7 +357,7 @@ body.bigslam-boxed.bigslam-background-pattern .bigslam-body-outer-wrapper{ backg
 .bigslam-logo{ padding-top: 0px; } 
 .bigslam-logo{ margin-bottom: 0px; } 
 .bigslam-logo-inner{ max-width: 185px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
-.bigslam-mobile-header-wrap .bigslam-logo-inner{ max-width: 50px; } 
+.bigslam-mobile-header-wrap .bigslam-logo-inner{ top: 35px; } 
 .bigslam-navigation{ padding-top: 5px; }.bigslam-navigation-top{ top: 5px; } 
 .bigslam-navigation .sf-menu > li > a{ padding-bottom: 42px; } 
 .bigslam-navigation .bigslam-main-menu{ padding-right: 15px; } 
