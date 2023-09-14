@@ -190,8 +190,8 @@ input[type="button"]:focus, input[type="submit"]:focus, input[type="reset"]:focu
 	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
 
 .bigslam-right-menu-button{ display: inline-block; margin-left: 27px; }
-.bigslam-mobile-menu{ float: left; margin-top: -8px; margin-left: 30px; }
-.bigslam-mobile-menu-right{ position: absolute; right: 30px; top: 50%; margin-top: -9px; }
+.bigslam-mobile-menu{ float: left; margin-top: 30px;  }
+.bigslam-mobile-menu-right{ position: absolute; right: 10px; top: 50%; }
 
 /* hamburger */
 .bigslam-mobile-button-hamburger{ box-sizing: border-box; display: block; width: 32px; height: 32px; position: relative; }

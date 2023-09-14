@@ -446,8 +446,8 @@ body.single-post .bigslam-sidebar-style-none, body.blog .bigslam-sidebar-style-n
 .bigslam-main-menu-search i, .bigslam-main-menu-cart i{ color: #3a3a3a; } 
 .bigslam-main-menu-cart > .bigslam-top-cart-count{ background-color: #2B3C8C; } 
 .bigslam-main-menu-cart > .bigslam-top-cart-count{ color: #ffffff; } 
-.bigslam-top-menu-button i, .bigslam-mobile-menu-button i{ color: #212121; }.bigslam-mobile-button-hamburger:before, .bigslam-mobile-button-hamburger:after, .bigslam-mobile-button-hamburger span{ background: #212121; } 
-.bigslam-main-menu-right .bigslam-top-menu-button, .bigslam-mobile-menu .bigslam-mobile-menu-button{ border-color: #444444; } 
+.bigslam-top-menu-button i, .bigslam-mobile-menu-button i{ color: #fff; }.bigslam-mobile-button-hamburger:before, .bigslam-mobile-button-hamburger:after, .bigslam-mobile-button-hamburger span{ background: #212121; } 
+.bigslam-main-menu-right .bigslam-top-menu-button, .bigslam-mobile-menu .bigslam-mobile-menu-button{ border-color: #fff; } 
 .bigslam-top-search-wrap{ background-color: #000000; background-color: rgba(0, 0, 0, 0.88); } 
 .bigslam-top-cart-content-wrap .bigslam-top-cart-content{ background-color: #0f0f0f; } 
 .bigslam-top-cart-content-wrap .bigslam-top-cart-content span, .bigslam-top-cart-content-wrap .bigslam-top-cart-content span.woocommerce-Price-amount.amount{ color: #ffffff; } 
